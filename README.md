@@ -28,12 +28,9 @@
    <br>
    <br>
  
-   <br>
-
-   <br>
 
    
-  <br>
+  
  
  ![Lotto_Home1](https://user-images.githubusercontent.com/49187863/127599397-4681c660-9f56-43c1-9b9f-a5f18eadc156.gif)
  <br><br>
